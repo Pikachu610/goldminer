@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Welcome to Gold Miner!" << std::endl;
+    std::cout << "Welcome ld Miner!" << std::endl;
     return 0;
 }
